@@ -1,0 +1,26 @@
+/* .product-table {
+  margin-top: 20px;
+}
+
+.product-table th,
+.product-table td {
+  text-align: left;
+}
+
+.product-table th {
+  background-color: #4c9df4;
+  color: #fff;
+}
+
+.product-table td {
+  border-bottom: 1px solid #bcbbbb;
+} */
+
+.btn btn-info btn btn-danger {
+  border-radius: 10px;
+  background-color: rgb(179, 214, 245);
+  border: black;
+  width: 100px;
+  padding: 8px;
+  margin: 5px;
+}

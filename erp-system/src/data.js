@@ -1,0 +1,88 @@
+const products = [
+  {
+    id: 1,
+    image: "./erp-system/Assets/Color Sensor.jpg",
+    title: "Heat Sensor",
+    quantity: "10",
+    price: "10.99",
+  },
+  {
+    id: 2,
+    image: "./Assets/Temperature Sensor.jpg",
+    title: "Temperature Sensor",
+    quantity: "15",
+    price: "12.99",
+  },
+  {
+    id: 3,
+    image: "./Assets/Humidity Sensor.jpg",
+    title: "Humidity Sensor",
+    quantity: "8",
+    price: "8.49",
+  },
+  {
+    id: 4,
+    image: "./Assets/Heartbeat Sensor.jpeg",
+    title: "Heartbeat Sensor",
+    quantity: "20",
+    price: "15.99",
+  },
+  {
+    id: 5,
+    image: "./Assets/Tilt Sensor.jpg",
+    title: "Tilt Sensor",
+    quantity: "12",
+    price: "11.49",
+  },
+  {
+    id: 6,
+    image: "./Assets/IR Sensor.jpg",
+    title: "IR Sensor (Infrared Sensor)",
+    quantity: "5",
+    price: "9.99",
+  },
+  {
+    id: 7,
+    image: "./Assets/Pressure Sensor.png",
+    title: "Pressure Sensor",
+    quantity: "18",
+    price: "14.99",
+  },
+  {
+    id: 8,
+    image: "./Assets/light Sensor.png",
+    title: "Light Sensor",
+    quantity: "22",
+    price: "17.49",
+  },
+  {
+    id: 9,
+    image: "./Assets/Ultrasonic sensor.jpg",
+    title: "Ultrasonic Sensor",
+    quantity: "14",
+    price: "13.99",
+  },
+  {
+    id: 10,
+    image: "./Assets/Proximity Sensor.jpg",
+    title: "Proximity Sensor",
+    quantity: "7",
+    price: "10.49",
+  },
+  {
+    id: 11,
+    image: "./Assets/Gas and smoke sensor.jpg",
+    title: "Gas & Smoke Sensor",
+    quantity: "9",
+    price: "11.99",
+  },
+  {
+    id: 12,
+    image: "./Assets/Touch Sensor.jpg",
+    title: "Touch Sensor",
+    quantity: "11",
+    price: "12.49",
+  },
+];
+
+export default products;
